@@ -1,5 +1,6 @@
 # Quantum Computer for Materials Science and Chemistry
 QC4MC Summer School 2025 at Purdue University
+
 Application deadline: Friday, May 16, 2025
 
 In collaboration with Arizona State University, the Purdue Rosen Center for Advanced Computing is pleased to announce the NSF-funded Quantum Computing Summer School for Materials Science and Chemistry (QC4MC), taking place from August 12 to 15, 2025. on Purdue University Campus in West Lafayette, IN. This four-day pilot program is open to undergraduate students, graduate students, and researchers in Materials Science and Chemistry from colleges and universities across Indiana.
