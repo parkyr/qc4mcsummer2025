@@ -1,4 +1,4 @@
-# Quantum Computer for Materials Science and Chemistry
+# Quantum Computing for Materials Science and Chemistry
 QC4MC Summer School 2025 at Purdue University
 
 Application deadline: Friday, May 16, 2025
